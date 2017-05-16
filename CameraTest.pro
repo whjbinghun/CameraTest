@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 TEMPLATE = app
 
 QT += qml quick concurrent multimedia
-#CONFIG += c++11
+CONFIG += c++11
 
 
 
@@ -18,8 +17,8 @@ include(deployment.pri)
 HEADERS += \
     JQQRCodeReader.h \
     JQQRCodeReaderForQml.h \
-    QZXing.h \
-    QZXing_global.h
+    qzxing.h \
+    qzxing_global.h
 
 SOURCES += main.cpp \
     JQQRCodeReader.cpp \

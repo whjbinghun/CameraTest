@@ -29,9 +29,7 @@
 #include <QSemaphore>
 
 // zxing lib import
-#include "QZXing.h"
-
-
+#include "qzxing.h"
 
 // JQQRCodeReader
 JQQRCodeReader::JQQRCodeReader()
