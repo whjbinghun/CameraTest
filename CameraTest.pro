@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TEMPLATE = app
 
 QT += qml quick concurrent multimedia
@@ -23,5 +24,3 @@ HEADERS += \
 SOURCES += main.cpp \
     JQQRCodeReader.cpp \
     JQQRCodeReaderForQml.cpp
-
-

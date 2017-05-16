@@ -1,4 +1,4 @@
-﻿#include <QGuiApplication>
+﻿﻿#include <QGuiApplication>
 #include <QQmlApplicationEngine>
 
 #include "JQQRCodeReaderForQml.h"
@@ -15,4 +15,3 @@ int main(int argc, char *argv[])
 
     return app.exec();
 }
-
